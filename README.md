@@ -66,7 +66,6 @@ nav.scrolled{background:rgba(0,0,0,.97);border-bottom:1px solid rgba(201,168,76,
   background:linear-gradient(135deg,rgba(201,168,76,.1) 0%,transparent 55%);
   z-index:1;
 }
-/* linha dourada lateral */
 .hero-line{
   position:absolute;left:0;top:0;bottom:0;width:3px;z-index:5;
   background:linear-gradient(to bottom,transparent,var(--gold),transparent);
